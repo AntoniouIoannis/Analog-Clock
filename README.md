@@ -28,8 +28,8 @@
 ## Εγκατάσταση
 1. Κλώνος το repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-
+   https://github.com/AntoniouIoannis/Analog-Clock.git
+   
 ## Άδεια Χρήσης
 MIT License - Ελεύθερη χρήση και τροποποίηση.
 
