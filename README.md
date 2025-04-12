@@ -33,5 +33,5 @@
 ## Άδεια Χρήσης
 MIT License - Ελεύθερη χρήση και τροποποίηση.
 
-## Δημιουργήθηκε απο τον Αντωνίου Ιωάννη [ i-antoniou ]
-## Junior Full-Stack SW Engineer
+Δημιουργήθηκε απο τον Αντωνίου Ιωάννη [ i-antoniou ]
+Junior Full-Stack SW Engineer
